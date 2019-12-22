@@ -1,0 +1,4 @@
+2019-12-14 13:58:49,129-__main__-INFO-Information
+2019-12-14 13:58:49,131-__main__-WARNING-warning
+2019-12-14 14:03:00,643-__main__-INFO-Information
+2019-12-14 14:03:00,643-__main__-WARNING-warning

@@ -1,0 +1,64 @@
+[INFO  - 2019-12-07T04:57:40.638Z] GhostDriver - Main - running on port 49793
+[INFO  - 2019-12-07T04:57:43.919Z] Session [1aabe330-18ae-11ea-97b9-519f6d95ac68] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2019-12-07T04:57:43.919Z] Session [1aabe330-18ae-11ea-97b9-519f6d95ac68] - page.customHeaders:  - {}
+[INFO  - 2019-12-07T04:57:43.919Z] Session [1aabe330-18ae-11ea-97b9-519f6d95ac68] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-7-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2019-12-07T04:57:43.919Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 1aabe330-18ae-11ea-97b9-519f6d95ac68
+[ERROR - 2019-12-07T04:57:45.945Z] Session [1aabe330-18ae-11ea-97b9-519f6d95ac68] - page.onError - msg: TypeError: null is not an object (evaluating 'MutationObserver.toString')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-12-07T04:57:45.946Z] Session [1aabe330-18ae-11ea-97b9-519f6d95ac68] - page.onError - stack:
+  (anonymous function) (https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/bundles/atom_aa06f6b.js:71)
+  (anonymous function) (https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/bundles/atom_aa06f6b.js:72)
+  i (https://dss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_71ba635.js:116)
+  p (https://dss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_71ba635.js:116)
+  (anonymous function) (https://dss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_71ba635.js:116)
+  R (https://dss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_71ba635.js:123)
+  i (https://dss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_71ba635.js:115)
+  p (https://dss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_71ba635.js:116)
+  i (https://dss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_71ba635.js:121)
+  (anonymous function) (https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/bundles/atom_aa06f6b.js:121)
+  i (https://dss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_71ba635.js:116)
+  p (https://dss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_71ba635.js:116)
+  d (https://dss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_71ba635.js:115)
+  n (https://dss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_71ba635.js:118)
+  i (https://dss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_71ba635.js:124)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-12-07T04:57:46.135Z] Session [1aabe330-18ae-11ea-97b9-519f6d95ac68] - page.onError - msg: Error: [MODULE_MISS]"@baidu/atom-web-runtime" is not exists!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-12-07T04:57:46.135Z] Session [1aabe330-18ae-11ea-97b9-519f6d95ac68] - page.onError - stack:
+  i (https://dss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_71ba635.js:121)
+  (anonymous function) (https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/bundles/ala-util_e489543.js:31)
+  i (https://dss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_71ba635.js:116)
+  p (https://dss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_71ba635.js:116)
+  (anonymous function) (https://dss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_71ba635.js:116)
+  R (https://dss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_71ba635.js:123)
+  i (https://dss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_71ba635.js:115)
+  p (https://dss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_71ba635.js:116)
+  i (https://dss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_71ba635.js:121)
+  (anonymous function) (https://www.baidu.com/cache/atom/search-ui/v2/core_4f18d6d.js:122)
+  (anonymous function) (https://www.baidu.com/cache/atom/search-ui/v2/core_4f18d6d.js:131)
+  i (https://dss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_71ba635.js:116)
+  p (https://dss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_71ba635.js:116)
+  i (https://dss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_71ba635.js:121)
+  (anonymous function) (https://www.baidu.com/cache/atom/search-ui/v2/core_4f18d6d.js:203)
+  i (https://dss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_71ba635.js:116)
+  p (https://dss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_71ba635.js:116)
+  i (https://dss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_71ba635.js:121)
+  (anonymous function) (https://www.baidu.com/cache/atom/search-ui/v2/core_4f18d6d.js:18)
+  i (https://dss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_71ba635.js:116)
+  p (https://dss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_71ba635.js:116)
+  i (https://dss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_71ba635.js:121)
+  (anonymous function) (https://www.baidu.com/cache/atom/search-ui/v2/core_4f18d6d.js:4)
+  i (https://dss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_71ba635.js:116)
+  p (https://dss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_71ba635.js:116)
+  i (https://dss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_71ba635.js:121)
+  (anonymous function) (https://www.baidu.com/cache/ala_atom/app/zp_exact_new/bundle_ed359eb.js:1)
+  i (https://dss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_71ba635.js:116)
+  p (https://dss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_71ba635.js:116)
+  d (https://dss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_71ba635.js:115)
+  n (https://dss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_71ba635.js:118)
+  i (https://dss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_71ba635.js:124)
+
+  phantomjs://platform/console++.js:263 in error

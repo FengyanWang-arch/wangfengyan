@@ -1,0 +1,5 @@
+2019-12-14 14:26:41,760-__main__-INFO-Inside function age()
+2019-12-14 14:26:41,760-__main__-INFO-In the try block
+2019-12-14 14:27:19,435-__main__-INFO-Inside function age()
+2019-12-14 14:27:19,436-__main__-INFO-In the try block
+2019-12-14 14:27:23,463-__main__-DEBUG-Value of age is 28
