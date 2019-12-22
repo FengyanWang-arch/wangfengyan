@@ -1,0 +1,7 @@
+2019-12-15 17:03:38,481-loggingpack.py-INFO:---测试开始---
+2019-12-15 17:03:38,481-loggingpack.py-INFO:输入密码
+2019-12-15 17:03:38,482-loggingpack.py-WARNING:测试结束
+2019-12-15 17:07:14,630-loggingpack.py-INFO:---测试用例开始---
+2019-12-15 17:07:14,942-loggingpack.py-INFO:input content:python
+2019-12-15 17:07:15,231-loggingpack.py-INFO:click button:id=su
+2019-12-15 17:07:17,249-loggingpack.py-INFO:get driver title:python_百度搜索
